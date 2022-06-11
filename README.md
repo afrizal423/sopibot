@@ -31,7 +31,7 @@ Script ini menggunakan bahasa pemrograman Go. Dengan dibumbui proses konkuren, d
 - Scroll pelan-pelan, cari bagian **Request Headers** lalu didalamnya ada **cookie** seperti gambar berikut ![cookie](assets/6.png)
 - Klik pada area **cookie** ![cookie](assets/6-1.png)
 - Klik kanan, lalu klik **copy value** ![cookie](assets/6-2.png)
-- Setelah mendapatkan value cookie, silahkan buka file .env sesuai sistem operasimu. Jika menggunakan windows silahkan ubah [.env](windows/.env) di folder windows, jika menggunakan linux silahkan ubah [.env](linux/.env) di folder linux.
+- Setelah mendapatkan value cookie, **rename** file **.env_example** menjadi **.env**. 
 - Buka file .env bisa melalui notepad maupun text editor lainnya.
 - Paste/tempel kan pada file .env pada bidang **COOKIE=**, setelah **sama dengan(=)** dan **tanpa spasi**, letakkan disitu.
 - Tetap pada dibrowsermu, silahkan kunjungi [my-user-agent.com](http://my-user-agent.com/).
