@@ -24,7 +24,7 @@ Script ini menggunakan bahasa pemrograman Go. Dengan dibumbui proses konkuren, d
 - **Lihat icon sebelah kiri samping tombol bulet merah**, tekan tombol tersebut. Hingga tampilannya bersih/kosong. ![network tab](assets/2.png)
 - Setelah itu refresh halaman beranda [Shopee](https://shopee.co.id/) (tekan F5). **Jangan tutup apapun, tetap masih ditab network**
 - Tunggu beberapa saat.. hingga loading selesai pada address bar.
-- Jika selesai, pencet lagi **icon sebelah kiri samping tombol bulet merah** ![network tab](assets/3.png)
+- Jika selesai, pencet **icon sebelah paling kiri samping tombol bulet merah**
 - Sekarang fokus bagian ini, scroll hingga bagian atas sendiri ![network tab](assets/4.png)
 - Cari tulisan **/** atau **shopee.co.id**. **pilih Type berupa fetch bukan apapun**![cookie](assets/5.png). Setelah itu klik bagian tersebut. Tampilannya seperti ini. ![cookie](assets/5-1.png)
 - Lalu scroll pelan-pelan kebawah ![cookie](assets/5-2.png)
